@@ -9,7 +9,7 @@ const Inc=()=>{
 const Dec=()=>{
   IncDecCount(count-1);
 };
-//changes
+//changes a
 return(
   <>
     <h1>{count}</h1>
